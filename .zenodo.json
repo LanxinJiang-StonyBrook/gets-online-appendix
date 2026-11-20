@@ -1,0 +1,14 @@
+{
+  "title": "Online Appendix: Advancing Greenhouse Gas Reporting with Blockchain and Life Cycle Assessment",
+  "upload_type": "other",
+  "description": "Online appendix to \"Advancing Greenhouse Gas Reporting with Blockchain and Life Cycle Assessment\". It contains the Word version of the appendix (Online_Appendix.docx) and an interactive version (index.html, also viewable at https://lanxinjiang-stonybrook.github.io/gets-online-appendix/) that traces every figure in the paper's life-cycle emission report to its inputs, ledger records, transactions, and raw readings from the simulated year.",
+  "creators": [
+    {"name": "Jiang, Lanxin", "affiliation": "Stony Brook University, SUNY"},
+    {"name": "Gu, Yu", "affiliation": "Southwestern University of Finance and Economics"},
+    {"name": "Yu, Wenjun", "affiliation": "PricewaterhouseCoopers Digital & Data Center (Chengdu) Co. Ltd."},
+    {"name": "Dai, Jun", "affiliation": "Michigan Technological University"}
+  ],
+  "keywords": ["climate-related disclosure", "Scope 3 emissions", "life cycle assessment", "blockchain", "smart contract", "design science research"],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
